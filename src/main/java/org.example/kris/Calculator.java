@@ -6,7 +6,7 @@ public class Calculator {
     public static void main(String[] args) {
        while (true){
            Scanner scanner = new Scanner(System.in);
-           System.out.println( " Это калькулятор, введи число 1");
+           System.out.println( " Это калькулят, введи число 1");
            double x = Double.parseDouble(scanner.nextLine());
 
            System.out.println(" Введите тип расчета");
