@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsMasive;
 
 public class Massive   {// массив это ссылочный тип данных
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsObject;
 
 public class Animal {
     public void eat(){

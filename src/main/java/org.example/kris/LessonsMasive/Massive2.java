@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsMasive;
 
 public class Massive2   {
     public static void main(String[] args) {

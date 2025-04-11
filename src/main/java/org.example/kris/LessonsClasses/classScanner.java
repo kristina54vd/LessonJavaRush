@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsClasses;
 import java.util.Scanner;//  класс Scanner  нужно импортировать этой командой , импорт класса сканер из  пакета и можем получать данные на вход
 public class classScanner {
 

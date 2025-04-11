@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsOperator;
 
 public class operatorBreak {//оператор Break - используется для выхода из цикла,если мы его вызываем внутри цикла он немедленно его обрывает
     public static void main(String[] args) {

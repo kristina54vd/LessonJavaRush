@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsOperator;
 
 public class operatorContinue {
     public static void main(String[] args) {

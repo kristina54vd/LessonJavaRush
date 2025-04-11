@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.ProgramProject;
 
 import java.util.Scanner;
 

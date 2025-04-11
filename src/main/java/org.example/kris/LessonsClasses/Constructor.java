@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsClasses;
 
 public class Constructor {// Конструктор вызывается при создании нового объекта
     public static void main(String[] args) {

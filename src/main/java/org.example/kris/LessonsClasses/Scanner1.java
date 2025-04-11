@@ -1,8 +1,8 @@
-package org.example.kris;
+package org.example.kris.LessonsClasses;
 
 import java.util.Scanner;
 
-public class s {
+public class Scanner1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ты любишь есть? ");

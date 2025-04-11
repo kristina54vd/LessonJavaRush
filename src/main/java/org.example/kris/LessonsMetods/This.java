@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsMetods;
 
 public class This {
     public static void main(String[] args) {

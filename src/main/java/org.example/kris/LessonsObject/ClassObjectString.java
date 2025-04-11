@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsObject;
 
 public class ClassObjectString {
     public static void main(String[] args) {//все клаасы в джава наследуют класс Object

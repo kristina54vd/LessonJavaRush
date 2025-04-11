@@ -1,7 +1,6 @@
-package org.example.kris;//switch испокльзуется когда у нас есть много условий которые вы должны перебрать , вместо кучи else if  уддобнеее switch
+package org.example.kris.LessonsOperator;//switch испокльзуется когда у нас есть много условий которые вы должны перебрать , вместо кучи else if  уддобнеее switch
 
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class operatorSwitch {
