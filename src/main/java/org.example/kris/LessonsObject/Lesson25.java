@@ -9,9 +9,8 @@ public class Lesson25 {
         cat.talk();
 
         Dog dog = new Dog();
-        dog.eat();
-        dog.sleep();
-        dog.proshu();
+        dog.bark();
+        dog.showName();
 
     }
 }

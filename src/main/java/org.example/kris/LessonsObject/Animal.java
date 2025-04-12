@@ -1,6 +1,8 @@
 package org.example.kris.LessonsObject;
 
 public class Animal {
+    String name = "Animal";
+
     public void eat(){
         System.out.println("Ем");
     }
