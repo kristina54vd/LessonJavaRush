@@ -1,4 +1,4 @@
-package org.example.kris;
+package org.example.kris.LessonsMetods;
 
 import java.io.FileInputStream;
 import java.io.IOException;
