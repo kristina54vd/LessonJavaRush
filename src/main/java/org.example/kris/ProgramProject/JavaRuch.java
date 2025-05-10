@@ -1,7 +1,6 @@
-package org.example;
+package org.example.kris.ProgramProject;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class JavaRuch {
     public static void main(String[] args) {
