@@ -1,6 +1,5 @@
-package org.example.kris;
+package org.example.kris.Cicles;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class JavRushi {
